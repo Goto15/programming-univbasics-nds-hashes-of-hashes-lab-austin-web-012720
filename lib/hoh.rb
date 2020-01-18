@@ -47,5 +47,5 @@ def naming_system
   naming_system_hash = {
     Kingdom: PORTION_1
   }
-  return PORTION_1
+  return naming_system_hash
 end
