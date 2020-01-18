@@ -9,22 +9,19 @@ PORTION_1 = {
   sub_category: {
     label: "Phylum",
     sub_category: {
-      label: "Class",
-      sub_category: PORTION_2
+      label: "Class"
     }
   }
 }
 
 PORTION_2 = {
-  label: "Order",
-  sub_category: PORTION_3
+  label: "Order"
 }
 
 PORTION_3 = {
   label: "Family",
   sub_category: {
-    label: "Genus",
-    sub_category: PORTION_4
+    label: "Genus"
   }
 }
 
