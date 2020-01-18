@@ -10,7 +10,9 @@ PORTION_1 = {
     label: "Phylum",
     sub_category: {
       label: "Class",
-      PORTION_2
+      sub_category: {
+        PORTION_2
+      }
     }
   }
 }
