@@ -43,6 +43,7 @@ def naming_system
   # HoH all the way to Species!
   naming_system_hash = {
     Kingdom: PORTION_1
+    sub_category: PORTION_2
   }
   return naming_system_hash
 end
