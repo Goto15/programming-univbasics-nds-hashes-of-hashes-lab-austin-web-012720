@@ -4,6 +4,12 @@
 #
 # The tests will guide your construction.
 #
+
+
+PORTION_2 = {
+  label: "Order"
+}
+
 PORTION_1 = {
   label: "Kingdom",
   sub_category: {
@@ -13,10 +19,6 @@ PORTION_1 = {
       sub_category: PORTION_2
     }
   }
-}
-
-PORTION_2 = {
-  label: "Order"
 }
 
 PORTION_3 = {
