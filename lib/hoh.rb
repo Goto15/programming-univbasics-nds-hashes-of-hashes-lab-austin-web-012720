@@ -45,5 +45,8 @@ def naming_system
     Kingdom: PORTION_1,
     sub_category: PORTION_2
   }
+  
+  puts naming_system_hash
+  
   return naming_system_hash
 end
